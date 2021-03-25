@@ -1,13 +1,13 @@
 # iPaaSExternalIntegrationHelper
 Provide a set of tools to assist in the development of third-party integrations using the iPaaS.com platform
 
-- [iPaaSExternalIntegrationHelper](#ipaasexternalintegrationhelper)
-  * [Overview](#overview)
-  * [Upload a completed integration](#upload-a-completed-integration)
-  * [Run local tests with your integration file](#run-local-tests-with-your-integration-file)
-    + [Creating local test methods](#creating-local-test-methods)
-  * [Simulate transfer hooks](#simulate-transfer-hooks)
-  * [Configuration File](#configuration-file)
+## Contents
+ * [Overview](#overview)
+ * [Upload a completed integration](#upload-a-completed-integration)
+ * [Run local tests with your integration file](#run-local-tests-with-your-integration-file)
+   + [Creating local test methods](#creating-local-test-methods)
+ * [Simulate transfer hooks](#simulate-transfer-hooks)
+ * [Configuration File](#configuration-file)
 
 ## Overview
 This tool provides three main features for developers looking to add an integration to the iPaaS.com platform:
